@@ -1,0 +1,20 @@
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: blue;
+}
+
+body{
+  background-color: black;
+}
+
+div{
+  margin: 30% 20%;
+  display: flex;
+  gap: 40px;
+  background-color: brown;
+  width: 400px;
+}
+
+a{
+  color: aliceblue;
+}
